@@ -1,5 +1,5 @@
 digraph {
-    1;
+    4;
     3;
     a [style=filled,fillcolor=lightgrey];
     b;
@@ -11,7 +11,7 @@ digraph {
     h;
     i;
     k;
-    l;
+    L;
     m;
     n;
     o;
@@ -27,8 +27,8 @@ digraph {
     y;
     z;
 
-    1 -> k;
-    c -> 1 [style=dashed];
+    4 -> k;
+    c -> 4 [style=dashed];
     c -> 3 [style=dashed];
     c -> d [style=dashed];
     c -> v [style=dashed];
@@ -41,8 +41,8 @@ digraph {
     d -> h;
     g -> i;
     i -> k;
-    k -> l;
-    l -> m;
+    k -> L;
+    L -> m;
     k -> n;
     n -> o;
     o -> p;
