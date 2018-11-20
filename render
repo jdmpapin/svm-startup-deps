@@ -1,0 +1,2 @@
+#!/usr/bin/env bash
+exec dot -Tpng -o svm-startup-deps.png svm-startup-deps.dot
