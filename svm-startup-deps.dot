@@ -2,7 +2,7 @@ digraph {
     4;
     3;
     a [color=lightgrey,fontcolor=lightgrey];
-    b;
+    b [style=filled,fillcolor=lightgrey];
     c;
     d;
     e;
