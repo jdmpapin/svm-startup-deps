@@ -2,7 +2,7 @@ digraph {
     4;
     3;
     a [color=lightgrey,fontcolor=lightgrey];
-    b [style=filled,fillcolor=lightgrey];
+    b [color=lightgrey,fontcolor=lightgrey];
     c;
     d;
     e;
@@ -33,7 +33,7 @@ digraph {
     c -> d [style=dashed];
     c -> v [style=dashed];
     a -> b [color=lightgrey];
-    b -> c;
+    b -> c [color=lightgrey];
     c -> e;
     d -> f;
     e -> f;
