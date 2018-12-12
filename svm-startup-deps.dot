@@ -31,7 +31,7 @@ digraph {
     c -> 4 [style=dashed];
     c -> 3 [style=dashed];
     c -> d [style=dashed];
-    c -> v [style=dashed];
+    3 -> v;
     a -> b [color=lightgrey];
     b -> c [color=lightgrey];
     c -> e;
