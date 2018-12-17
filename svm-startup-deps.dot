@@ -4,7 +4,7 @@ digraph {
     a [color=lightgrey,fontcolor=lightgrey];
     b [color=lightgrey,fontcolor=lightgrey];
     c [color=lightgrey,fontcolor=lightgrey];
-    d;
+    d [style=filled,fillcolor=lightgrey];
     e;
     f;
     g;
