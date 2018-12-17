@@ -1,5 +1,5 @@
 digraph {
-    4;
+    4 [style=filled,fillcolor=lightgrey];
     3;
     a [color=lightgrey,fontcolor=lightgrey];
     b [color=lightgrey,fontcolor=lightgrey];
