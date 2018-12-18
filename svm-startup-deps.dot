@@ -38,7 +38,7 @@ digraph {
     d -> f;
     e -> f;
     f -> g;
-    d -> h;
+    g -> h;
     g -> i;
     i -> k;
     k -> L;
