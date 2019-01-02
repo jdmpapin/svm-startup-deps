@@ -39,7 +39,7 @@ digraph {
     e -> f [color=lightgrey];
     f -> g [color=lightgrey];
     g -> h;
-    g -> i;
+    h -> i;
     i -> k;
     k -> L;
     L -> m;
