@@ -9,7 +9,7 @@ digraph {
     f [color=lightgrey,fontcolor=lightgrey];
     g [color=lightgrey,fontcolor=lightgrey];
     h [color=lightgrey,fontcolor=lightgrey];
-    i;
+    i [style=filled,fillcolor=lightgrey];
     k;
     L;
     m;
