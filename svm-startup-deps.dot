@@ -8,7 +8,7 @@ digraph {
     e [color=lightgrey,fontcolor=lightgrey];
     f [color=lightgrey,fontcolor=lightgrey];
     g [color=lightgrey,fontcolor=lightgrey];
-    h;
+    h [style=filled,fillcolor=lightgrey];
     i;
     k;
     L;
