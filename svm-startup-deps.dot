@@ -9,8 +9,8 @@ digraph {
     f [color=lightgrey,fontcolor=lightgrey];
     g [color=lightgrey,fontcolor=lightgrey];
     h [color=lightgrey,fontcolor=lightgrey];
-    i [style=filled,fillcolor=lightgrey];
-    k;
+    i [color=lightgrey,fontcolor=lightgrey];
+    k [style=filled,fillcolor=lightgrey];
     L;
     m;
     n;
@@ -21,7 +21,7 @@ digraph {
     s;
     t;
     u;
-    v [style=filled,fillcolor=lightgrey];
+    v [color=lightgrey,fontcolor=lightgrey];
     w;
     x;
     y;
@@ -40,7 +40,7 @@ digraph {
     f -> g [color=lightgrey];
     g -> h [color=lightgrey];
     h -> i [color=lightgrey];
-    i -> k;
+    i -> k [color=lightgrey];
     k -> L;
     L -> m;
     k -> n;
