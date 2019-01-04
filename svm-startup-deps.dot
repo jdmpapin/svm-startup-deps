@@ -10,10 +10,10 @@ digraph {
     g [color=lightgrey,fontcolor=lightgrey];
     h [color=lightgrey,fontcolor=lightgrey];
     i [color=lightgrey,fontcolor=lightgrey];
-    k [style=filled,fillcolor=lightgrey];
+    k [color=lightgrey,fontcolor=lightgrey];
     L;
     m;
-    n;
+    n [style=filled,fillcolor=lightgrey];
     o;
     p;
     q;
@@ -41,9 +41,9 @@ digraph {
     g -> h [color=lightgrey];
     h -> i [color=lightgrey];
     i -> k [color=lightgrey];
-    k -> L;
+    k -> L [color=lightgrey];
     L -> m;
-    k -> n;
+    k -> n [color=lightgrey];
     n -> o;
     o -> p;
     p -> q;
