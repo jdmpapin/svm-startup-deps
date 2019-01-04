@@ -13,6 +13,7 @@ digraph {
     k [color=lightgrey,fontcolor=lightgrey];
     L;
     m;
+    5 [style=filled,fillcolor=lightgrey];
     n [style=filled,fillcolor=lightgrey];
     o;
     p;
@@ -35,6 +36,7 @@ digraph {
     a -> b [color=lightgrey];
     b -> c [color=lightgrey];
     c -> e [color=lightgrey];
+    c -> 5 [color=lightgrey];
     d -> f [color=lightgrey];
     e -> f [color=lightgrey];
     f -> g [color=lightgrey];
@@ -51,6 +53,7 @@ digraph {
     o -> s;
     s -> t;
     o -> u;
+    5 -> w;
     o -> w;
     o -> x;
     t -> y;
