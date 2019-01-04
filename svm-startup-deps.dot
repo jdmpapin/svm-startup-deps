@@ -14,8 +14,8 @@ digraph {
     L;
     m;
     5 [color=lightgrey,fontcolor=lightgrey];
-    n [style=filled,fillcolor=lightgrey];
-    o;
+    n [color=lightgrey,fontcolor=lightgrey];
+    o [style=filled,fillcolor=lightgrey];
     p;
     q;
     r;
@@ -46,7 +46,7 @@ digraph {
     k -> L [color=lightgrey];
     L -> m;
     k -> n [color=lightgrey];
-    n -> o;
+    n -> o [color=lightgrey];
     o -> p;
     p -> q;
     p -> r;
