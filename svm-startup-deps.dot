@@ -55,6 +55,7 @@ digraph {
     p -> r;
     o -> s [color=lightgrey];
     s -> t [color=lightgrey];
+    p -> t;
     o -> u [color=lightgrey];
     5 -> w [color=lightgrey];
     o -> w [color=lightgrey];
