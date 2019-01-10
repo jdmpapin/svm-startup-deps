@@ -22,7 +22,7 @@ digraph {
     p;
     q;
     r;
-    s [style=filled,fillcolor=lightgrey];
+    s [color=lightgrey,fontcolor=lightgrey];
     t;
     u;
     v [color=lightgrey,fontcolor=lightgrey];
@@ -54,7 +54,7 @@ digraph {
     p -> q;
     p -> r;
     o -> s [color=lightgrey];
-    s -> t;
+    s -> t [color=lightgrey];
     o -> u [color=lightgrey];
     5 -> w [color=lightgrey];
     o -> w [color=lightgrey];
