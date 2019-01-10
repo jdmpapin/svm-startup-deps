@@ -1,4 +1,7 @@
 digraph {
+    // open: [style=filled,fillcolor=lightgrey]
+    // closed: [color=lightgrey,fontcolor=lightgrey]
+
     4 [color=lightgrey,fontcolor=lightgrey];
     3 [color=lightgrey,fontcolor=lightgrey];
     a [color=lightgrey,fontcolor=lightgrey];
