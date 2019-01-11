@@ -24,7 +24,7 @@ digraph {
     r;
     s [color=lightgrey,fontcolor=lightgrey];
     t;
-    u;
+    u [style=filled,fillcolor=lightgrey];
     v [color=lightgrey,fontcolor=lightgrey];
     w;
     x;
