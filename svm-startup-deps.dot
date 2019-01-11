@@ -62,5 +62,6 @@ digraph {
     t -> x;
     r -> x;
     x -> y;
-    t -> z;
+    x -> z;
+    w -> z;
 }
