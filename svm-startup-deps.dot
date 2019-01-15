@@ -19,12 +19,12 @@ digraph {
     5 [color=lightgrey,fontcolor=lightgrey];
     n [color=lightgrey,fontcolor=lightgrey];
     o [color=lightgrey,fontcolor=lightgrey];
-    p [style=filled,fillcolor=lightgrey];
+    p [color=lightgrey,fontcolor=lightgrey];
     q;
     r;
     s [color=lightgrey,fontcolor=lightgrey];
     t;
-    u [style=filled,fillcolor=lightgrey];
+    u [color=lightgrey,fontcolor=lightgrey];
     v [color=lightgrey,fontcolor=lightgrey];
     w;
     x;
@@ -51,11 +51,11 @@ digraph {
     k -> n [color=lightgrey];
     n -> o [color=lightgrey];
     o -> p [color=lightgrey];
-    p -> q;
+    p -> q [color=lightgrey];
     q -> r;
     o -> s [color=lightgrey];
     s -> t [color=lightgrey];
-    p -> t;
+    p -> t [color=lightgrey];
     o -> u [color=lightgrey];
     5 -> w [color=lightgrey];
     r -> w;
