@@ -20,7 +20,7 @@ digraph {
     n [color=lightgrey,fontcolor=lightgrey];
     o [color=lightgrey,fontcolor=lightgrey];
     p [color=lightgrey,fontcolor=lightgrey];
-    q;
+    q [style=filled,fillcolor=lightgrey];
     r;
     s [color=lightgrey,fontcolor=lightgrey];
     t [style=filled,fillcolor=lightgrey];
