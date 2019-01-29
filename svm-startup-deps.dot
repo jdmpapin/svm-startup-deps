@@ -20,8 +20,8 @@ digraph {
     n [color=lightgrey,fontcolor=lightgrey];
     o [color=lightgrey,fontcolor=lightgrey];
     p [color=lightgrey,fontcolor=lightgrey];
-    q [style=filled,fillcolor=lightgrey];
-    r;
+    q [color=lightgrey,fontcolor=lightgrey];
+    r [style=filled,fillcolor=lightgrey];
     s [color=lightgrey,fontcolor=lightgrey];
     t [style=filled,fillcolor=lightgrey];
     u [color=lightgrey,fontcolor=lightgrey];
@@ -52,7 +52,7 @@ digraph {
     n -> o [color=lightgrey];
     o -> p [color=lightgrey];
     p -> q [color=lightgrey];
-    q -> r;
+    q -> r [color=lightgrey];
     o -> s [color=lightgrey];
     s -> t [color=lightgrey];
     p -> t [color=lightgrey];
