@@ -27,7 +27,7 @@ digraph {
     u [color=lightgrey,fontcolor=lightgrey];
     v [color=lightgrey,fontcolor=lightgrey];
     w [color=lightgrey,fontcolor=lightgrey];
-    x [style=filled,fillcolor=lightgrey];
+    x [color=lightgrey,fontcolor=lightgrey];
     y;
     z;
 
@@ -61,7 +61,7 @@ digraph {
     r -> w [color=lightgrey];
     t -> x [color=lightgrey];
     r -> x [color=lightgrey];
-    x -> y;
-    x -> z;
+    x -> y [color=lightgrey];
+    x -> z [color=lightgrey];
     w -> z [color=lightgrey];
 }
