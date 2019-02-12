@@ -29,7 +29,7 @@ digraph {
     w [color=lightgrey,fontcolor=lightgrey];
     x [color=lightgrey,fontcolor=lightgrey];
     y [style=filled,fillcolor=lightgrey];
-    z [style=filled,fillcolor=lightgrey];
+    z [color=lightgrey,fontcolor=lightgrey];
 
     4 -> k [color=lightgrey];
     c -> 4 [style=dashed,color=lightgrey];
