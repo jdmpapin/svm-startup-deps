@@ -28,8 +28,8 @@ digraph {
     v [color=lightgrey,fontcolor=lightgrey];
     w [color=lightgrey,fontcolor=lightgrey];
     x [color=lightgrey,fontcolor=lightgrey];
-    y;
-    z;
+    y [style=filled,fillcolor=lightgrey];
+    z [style=filled,fillcolor=lightgrey];
 
     4 -> k [color=lightgrey];
     c -> 4 [style=dashed,color=lightgrey];
