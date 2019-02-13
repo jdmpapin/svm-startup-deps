@@ -14,7 +14,7 @@ digraph {
     h [color=lightgrey,fontcolor=lightgrey];
     i [color=lightgrey,fontcolor=lightgrey];
     k [color=lightgrey,fontcolor=lightgrey];
-    L;
+    L [color=lightgrey,fontcolor=lightgrey];
     m;
     5 [color=lightgrey,fontcolor=lightgrey];
     n [color=lightgrey,fontcolor=lightgrey];
@@ -28,7 +28,7 @@ digraph {
     v [color=lightgrey,fontcolor=lightgrey];
     w [color=lightgrey,fontcolor=lightgrey];
     x [color=lightgrey,fontcolor=lightgrey];
-    y [style=filled,fillcolor=lightgrey];
+    y [color=lightgrey,fontcolor=lightgrey];
     z [color=lightgrey,fontcolor=lightgrey];
 
     4 -> k [color=lightgrey];
@@ -47,7 +47,7 @@ digraph {
     h -> i [color=lightgrey];
     i -> k [color=lightgrey];
     k -> L [color=lightgrey];
-    L -> m;
+    L -> m [color=lightgrey];
     k -> n [color=lightgrey];
     n -> o [color=lightgrey];
     o -> p [color=lightgrey];
